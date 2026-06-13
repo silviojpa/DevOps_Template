@@ -7,3 +7,7 @@
 # Protocolo de Troubleshooting DNS
 <img width="743" height="701" alt="Protocolo de troubleshooing DNS " src="https://github.com/user-attachments/assets/1636708d-f074-4037-8dad-db2acd466a93" />
 
+# Bibliotécas e Frameworks do Python
+<img width="798" height="716" alt="image" src="https://github.com/user-attachments/assets/05a71cab-25e1-4255-92d8-e2727f293e01" />
+
+
