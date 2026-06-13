@@ -3,3 +3,7 @@
 
 # Comandos do Git
 <img width="1220" height="1815" alt="Comandos_git" src="https://github.com/user-attachments/assets/d209b3e9-0658-42a8-a339-eab408d041c1" />
+
+# Protocolo de Troubleshooting DNS
+<img width="743" height="701" alt="Protocolo de troubleshooing DNS " src="https://github.com/user-attachments/assets/1636708d-f074-4037-8dad-db2acd466a93" />
+
